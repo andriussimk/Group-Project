@@ -5,3 +5,5 @@ miau
 au au
 
 kas skaitys tas gaidys
+
+kodel karoliui nerodo ????????
